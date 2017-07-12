@@ -1,0 +1,14 @@
+{
+  "name": "BowerTest",
+  "main": "BowerTest.js",
+  "homepage": "https://github.com/IchigoKIl/BowerTest",
+  "authors": [
+    "Raymond Lieu <lieu@sedsystems.ca>"
+  ],
+  "description": "",
+  "keywords": [
+    "BowerTest"
+  ],
+  "license": "MIT",
+  "private": true
+}
