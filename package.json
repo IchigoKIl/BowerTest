@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IchigoKIl/BowerTest/issues"
   },
-  "homepage": "https://github.com/IchigoKIl/BowerTest#readme"
+  "homepage": "https://github.com/IchigoKIl/BowerTest#readme",
+  "publishConfig" : {
+    "registry" : "http://192.168.1.7:8081/nexus/content/groups/npm/"
+  }
 }
