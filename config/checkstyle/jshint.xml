@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+	<file name="src/test.js">
+		<error line="6" column="9" severity="warning" message="&apos;a&apos; is already defined. (W004)" source="jshint.W004" />
+	</file>
+</checkstyle>
